@@ -1,7 +1,7 @@
 using System.Linq;
 using Xunit;
 
-namespace XUnitTestProject1
+namespace Challenges
 {
     public class Challenge
     {
