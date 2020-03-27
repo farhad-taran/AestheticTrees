@@ -1,7 +1,7 @@
 using System.Linq;
 using Xunit;
 
-namespace Challenges
+namespace AestheticTreesChallenge
 {
     public class Challenge
     {
