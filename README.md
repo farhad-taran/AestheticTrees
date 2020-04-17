@@ -6,13 +6,13 @@ Jimmy pays much attention to the aesthetics of his garden. He finds his trees ae
 
 These are examples of aesthetically pleasing trees:
 
-![N|Solid](https://raw.githubusercontent.com/farhad-taran/AestheticTreesChallenge/blob/master/docs/1.png)
+(https://raw.githubusercontent.com/farhad-taran/AestheticTreesChallenge/blob/master/docs/1.png)
 
 Graphical representation of the example
 
 These are examples of trees that are not aesthetically pleasing:
 
-![N|Solid](https://raw.githubusercontent.comfarhad-taran/AestheticTreesChallenge/blob/master/docs/2.png)
+(https://raw.githubusercontent.comfarhad-taran/AestheticTreesChallenge/blob/master/docs/2.png)
 
 Graphical representation of the example
 
